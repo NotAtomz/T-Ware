@@ -237,7 +237,7 @@ scriptcontrols = {
     end,
 }
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Other/Script%20Commands.lua',true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/officialtubers93/commands/main/t-ware.lua',true))()
 
 --// Run Cmd
 input1.FocusLost:connect(function(enterPressed)
